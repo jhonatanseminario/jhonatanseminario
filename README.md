@@ -1,16 +1,29 @@
-### Hi there 👋
+# ¡Hola, soy Jhonatan! 👋
 
-<!--
-**seminariodev/seminariodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil! Actualmente estoy cursando el tercer ciclo de la carrera de Desarrollo de Sistemas. Me considero un entusiasta del desarrollo web, especialmente en el lado del frontend.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS (incluyendo Tailwind y SASS)
+- JavaScript
+- React
+- Git
+
+...y más. Siempre estoy explorando nuevas tecnologías y herramientas para mejorar mis habilidades y enfrentar desafíos emocionantes.
+
+## 💡 Objetivo
+
+Mi objetivo es crecer como desarrollador, contribuir a proyectos interesantes y aprender continuamente. ¡Me encanta convertir ideas en código y construir experiencias digitales impactantes!
+
+## 🌱 Actualmente Aprendiendo
+
+Estoy enfocado en mejorar mis habilidades en el desarrollo frontend, explorando nuevas bibliotecas y herramientas para perfeccionar mi arte.
+
+## 🤝 ¡Conéctate Conmigo!
+
+¡Me encantaría conectarme contigo! Si necesitas mis servicios como desarrollador web, no dudes en contactarme.
+
+[LinkedIn](https://www.linkedin.com/in/jhonatanseminario/)
+
+¡Gracias por visitar mi perfil! 😊
