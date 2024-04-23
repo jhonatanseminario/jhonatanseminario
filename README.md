@@ -1,28 +1,27 @@
-# ¡Hola, soy Jhonatan! 👋
+<h1>
+  ¡Hola, soy Jhonatan! 👋
+</h1>
 
-¡Bienvenido a mi perfil! Soy un **desarrollador web** apasionado por las nuevas tecnologías. Siempre estoy trabajando en proyectos que me permiten mejorar y consolidar mis habilidades como programador.
+<p>
+  ¡Bienvenido a mi perfil! Soy un <b>desarrollador web</b> en constante aprendizaje y entusiasta de las nuevas tecnologías. Actualmente me encuentro cursando el segundo año de la carrera profesional de <b>Desarrollo de Sistemas</b> en el Instituto Superior Tecnológico "Víctor Raúl Haya de la Torre" en Perú.
+</p>
 
-## 🚀 Stack Tecnológico
+<img src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" alt="Descripción opcional" height="480">
 
-- **Lenguajes de Base:**
-  - **`HTML`**
-  - **`CSS`**
-  - **`JavaScript`**
 
-- **Framework de Frontend:**
-  - **`React`**
+<h2>
+  🚀 Stack Tecnológico
+</h2>
 
-- **Diseño Responsivo y Estilos:**
-  - **`Bootstrap`**
-  - **`SASS`**
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
-- **Control de Versiones:**
-  - **`Git`**
-  - **`GitHub`**
-    
-- **Entorno de Desarrollo Integrado (IDE):**
-  - **`Visual Studio Code`**
 
-## 🎓 Educación
+<h2>
+  📈 Mis Estadísticas
+</h2>
 
-Actualmente me encuentro cursando el segundo año de la carrera de **Desarrollo de Sistemas** en el [Instituto Superior Tecnológico "Víctor Raúl Haya de la Torre"](https://www.institutovrht.edu.pe/sistemas_informacion.php) en Lima, Perú. Complementariamente, también llevo la carrera de **Desarrollo Full Stack** en el Bootcamp de [Henry](https://www.soyhenry.com/webfullstack).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanseminario&layout=donut-vertical)](https://github.com/jhonatanseminario/github-readme-stats)
