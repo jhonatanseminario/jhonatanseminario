@@ -34,4 +34,7 @@
   📈 Mis Estadísticas
 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanseminario&layout=donut-vertical)](https://github.com/jhonatanseminario/github-readme-stats)
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanseminario&layout=donut-vertical)](https://github.com/jhonatanseminario/github-readme-stats)
+</div>
