@@ -24,6 +24,11 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-gold?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SASS-palevioletred?style=for-the-badge&logo=sass&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vite-blueviolet?style=for-the-badge&logo=vite&logoColor=white)
 
 <h2>
   📈 Mis Estadísticas
