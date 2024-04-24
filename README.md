@@ -19,6 +19,8 @@
   🚀 Stack Tecnológico
 </h2>
 
+<div align="center">
+  
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,6 +32,8 @@
 ![Static Badge](https://img.shields.io/badge/SASS-palevioletred?style=for-the-badge&logo=sass&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vite-blueviolet?style=for-the-badge&logo=vite&logoColor=white)
 
+</div>
+
 <h2>
   📈 Mis Estadísticas
 </h2>
@@ -37,4 +41,5 @@
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanseminario&layout=donut-vertical)](https://github.com/jhonatanseminario/github-readme-stats)
+  
 </div>
