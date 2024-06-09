@@ -47,7 +47,7 @@ Mis Estadísticas
 
 <div align="center">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=jhonatanseminario&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=jhonatanseminario&data=followers,repositories,stars,commits&theme=dark_magic_girl&title_color=3074ff">
 
   ![](https://github-readme-stats.vercel.app/api?username=jhonatanseminario&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=3074ff&icon_color=3074ff&text_color=E1E1E1&bg_color=0,000000,130F40&border_radius=8&rank_icon=github)
   
@@ -55,10 +55,7 @@ Mis Estadísticas
 
   ![](https://streak-stats.demolab.com/?user=jhonatanseminario&hide_border=true&border_radius=8&mode=weekly&title_color=3074ff&ring=3074ff&fire=3074ff&currStreakNum=E1E1E1&sideNums=E1E1E1&currStreakLabel=E1E1E1&sideLabels=E1E1E1&dates=E1E1E1&background=0,000000,130F40)
 
-  <img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg" alt="Key:: Visitor's Count" />
-
-
-
+  <img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg"/>
 
 </div>
 
