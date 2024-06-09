@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" alt="Rocket" height="480" />
+  <img src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" alt="Rocket" height="360" />
 </div>
 
 <h1>
