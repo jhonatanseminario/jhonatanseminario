@@ -20,25 +20,29 @@
 Stack Tecnológico
 </h2>
 
-<div align="center">
-  
-![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Linux-gold?style=for-the-badge&logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SASS-palevioletred?style=for-the-badge&logo=sass&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Vite-blueviolet?style=for-the-badge&logo=vite&logoColor=white)
+<br>
 
-</div>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="64" height="64" alt="JavaScript" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="64" height="64" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="64" height="64" alt="VS Code" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="64" height="64" alt="CSS3" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="64" height="64" alt="React" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="64" height="64" alt="Bootstrap" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="64" height="64" alt="Sass" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="64" height="64" alt="Vite" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="64" height="64" alt="HTML5" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="64" height="64" alt="Linux" /></a>
+</p>
+
+<br>
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 Mis Estadísticas
 </h2>
+
+<br>
 
 <div align="center">
 
