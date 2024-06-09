@@ -7,10 +7,10 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Rocket" width="25" height="25" />
 Sobre Mí
 </h2>
-<p>
+<p align="center">
   Soy un <b>desarrollador web</b> enfocado en el <i>frontend</i>. Siempre me encuentro en constante aprendizaje, explorando y adoptando nuevas tecnologías y metodologías que me permitan mejorar significativamente la eficiencia y calidad en mis procesos de desarrollo.
 </p>
-<p>
+<p align="center">
   Actualmente curso el segundo año de la carrera profesional de <b>Desarrollo de Sistemas</b> en el Instituto Superior Tecnológico <i>"Víctor Raúl Haya de la Torre"</i> en Perú. Esta formación académica complementa asertivamente mis sólidos conocimientos autodidactas y me brinda una perspectiva más amplia y estructurada en el campo del desarrollo web.
 </p>
 
