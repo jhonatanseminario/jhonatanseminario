@@ -3,7 +3,7 @@
   <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Emoji de mano saludando" height="40">
 </h1>
 
-<h2 align="center">
+<h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Rocket" width="25" height="25" />
 Sobre Mí
 </h2>
@@ -14,7 +14,7 @@ Sobre Mí
   Actualmente curso el segundo año de la carrera profesional de <b>Desarrollo de Sistemas</b> en el Instituto Superior Tecnológico <i>"Víctor Raúl Haya de la Torre"</i> en Perú. Esta formación académica complementa asertivamente mis sólidos conocimientos autodidactas y me brinda una perspectiva más amplia y estructurada en el campo del desarrollo web.
 </p>
 
-<h2 align="center">
+<h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 Stack Tecnológico
 </h2>
@@ -34,7 +34,7 @@ Stack Tecnológico
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="64" height="64" alt="Sass" /></a>
 </p>
 
-<h2 align="center">
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 Mis Estadísticas
 </h2>
