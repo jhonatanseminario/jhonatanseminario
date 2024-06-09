@@ -53,6 +53,8 @@ Mis Estadísticas
 
   ![](https://streak-stats.demolab.com/?user=jhonatanseminario&hide_border=true&border_radius=8&mode=weekly&title_color=3074ff&ring=3074ff&fire=3074ff&currStreakNum=E1E1E1&sideNums=E1E1E1&currStreakLabel=E1E1E1&sideLabels=E1E1E1&dates=E1E1E1&background=0,000000,130F40)
 
+  <img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg" alt="Key:: Visitor's Count" />
+
 </div>
 
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
