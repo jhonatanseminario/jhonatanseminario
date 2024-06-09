@@ -16,7 +16,8 @@
 </p>
 
 <h2>
-  🚀 Stack Tecnológico
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+Stack Tecnológico
 </h2>
 
 <div align="center">
@@ -35,7 +36,8 @@
 </div>
 
 <h2>
-  📈 Mis Estadísticas
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
+Mis Estadísticas
 </h2>
 
 <div align="center">
