@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" width="620" />
 </div>
-
 <h1 align="center">
   ¡Hola, soy Jhonatan!
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone alt="Emoji de mano saludando" height="40">
@@ -43,7 +42,7 @@ Stack Tecnológico
 Mis Estadísticas
 </h2>
 
-<br>
+
 
 <div align="center">
 
