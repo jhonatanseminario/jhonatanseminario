@@ -54,11 +54,17 @@ Mis Estadísticas
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanseminario&layout=compact&title_color=3074ff&icon_color=1124BB&text_color=E1E1E1&bg_color=0,000000,130F40&border_radius=8)
 
   ![](https://streak-stats.demolab.com/?user=jhonatanseminario&hide_border=true&border_radius=8&mode=weekly&title_color=3074ff&ring=3074ff&fire=3074ff&currStreakNum=E1E1E1&sideNums=E1E1E1&currStreakLabel=E1E1E1&sideLabels=E1E1E1&dates=E1E1E1&background=0,000000,130F40)
-<br>
-<br>
-<br>
-<br>
-  <img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg"/>
+  
+
+</div>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Party Popper" width="25" height="25" />
+¡Gracias por tu Visita!
+</h2>
+<div align="center">
+  <br>
+  <br>
+<img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg"/>
 
 </div>
 
