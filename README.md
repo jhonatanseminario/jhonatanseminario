@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" width="620" />
+  <img src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" width="620">
 </div>
 <h1 align="center">
   Hello, I'm Jhonatan!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone alt="Emoji de mano saludando" height="40">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" height="40">
 </h1>
-
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Rocket" width="25" height="25" />
-About Me
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" />
+  About Me
 </h2>
 <br>
 <p align="center">
@@ -17,15 +16,12 @@ About Me
 <p align="center">
   I am currently in my second year of the <b>Professional Development of Systems Program</b> at the <i>"Víctor Raúl Haya de la Torre"</i> Technological Institute in Peru. This academic training effectively complements my solid self-taught knowledge and provides me with a broader and more structured perspective in the field of web development.
 </p>
-
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-Tech Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25">
+  Tech Stack
 </h2>
-
 <br>
-
-<p align="center">
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="64" height="64" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="64" height="64" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="64" height="64" alt="JavaScript" /></a>
@@ -36,37 +32,29 @@ Tech Stack
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="64" height="64" alt="Vite" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="64" height="64" alt="Bootstrap" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="64" height="64" alt="Sass" /></a>
-</p>
-
+</div>
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
-GitHub Stats
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="25" height="25">
+  GitHub Stats
 </h2>
-
-
-
 <div align="center">
-
 <img src="https://github-widgetbox.vercel.app/api/profile?username=jhonatanseminario&data=followers,repositories,stars,commits&theme=dark_magic_girl&title_color=3074ff">
-
+  
   ![](https://github-readme-stats.vercel.app/api?username=jhonatanseminario&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=3074ff&icon_color=3074ff&text_color=E1E1E1&bg_color=0,000000,130F40&border_radius=8&rank_icon=github)
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanseminario&layout=compact&title_color=3074ff&icon_color=1124BB&text_color=E1E1E1&bg_color=0,000000,130F40&border_radius=8)
 
   ![](https://streak-stats.demolab.com/?user=jhonatanseminario&hide_border=true&border_radius=8&mode=weekly&title_color=3074ff&ring=3074ff&fire=3074ff&currStreakNum=E1E1E1&sideNums=E1E1E1&currStreakLabel=E1E1E1&sideLabels=E1E1E1&dates=E1E1E1&background=0,000000,130F40)
-  
-
 </div>
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Party Popper" width="25" height="25" />
-Thanks for Visiting!
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands%20Medium-Light%20Skin%20Tone.png" width="25" height="25" />
+  Thanks for Visiting!
 </h2>
 <div align="center">
   <br>
   <br>
-<img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg"/>
-
+  <img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg"/>
 </div>
-  <br>
-  
+<br>
+
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
