@@ -2,25 +2,25 @@
   <img src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" width="620" />
 </div>
 <h1 align="center">
-  ¡Hola, soy Jhonatan!
+  Hello, I'm Jhonatan!
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone alt="Emoji de mano saludando" height="40">
 </h1>
 
 <h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Rocket" width="25" height="25" />
-Sobre Mí
+About Me
 </h2>
 <br>
 <p align="center">
-  Soy un <b>desarrollador web</b> enfocado en el <i>frontend</i>. Siempre me encuentro en constante aprendizaje, explorando y adoptando nuevas tecnologías y metodologías que me permitan mejorar significativamente la eficiencia y calidad en mis procesos de desarrollo.
+  I am a <b>web developer</b> focused on <i>frontend development</i>. I am always in a constant state of learning, exploring, and adopting new technologies and methodologies that allow me to significantly improve the efficiency and quality of my development processes.
 </p>
 <p align="center">
-  Actualmente curso el segundo año de la carrera profesional de <b>Desarrollo de Sistemas</b> en el Instituto Superior Tecnológico <i>"Víctor Raúl Haya de la Torre"</i> en Perú. Esta formación académica complementa asertivamente mis sólidos conocimientos autodidactas y me brinda una perspectiva más amplia y estructurada en el campo del desarrollo web.
+  I am currently in my second year of the <b>Professional Development of Systems Program</b> at the <i>"Víctor Raúl Haya de la Torre"</i> Technological Institute in Peru. This academic training effectively complements my solid self-taught knowledge and provides me with a broader and more structured perspective in the field of web development.
 </p>
 
 <h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-Stack Tecnológico
+Tech Stack
 </h2>
 
 <br>
@@ -40,7 +40,7 @@ Stack Tecnológico
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
-Mis Estadísticas
+GitHub Stats
 </h2>
 
 
@@ -59,7 +59,7 @@ Mis Estadísticas
 </div>
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Party Popper" width="25" height="25" />
-¡Gracias por tu Visita!
+Thanks for Visiting!
 </h2>
 <div align="center">
   <br>
