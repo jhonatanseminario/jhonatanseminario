@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" width="620">
+  <img src="https://github.com/jhonatanseminario/jhonatanseminario/assets/146497717/f8a87f91-8fae-458a-8c7b-a740c5d5753f" width="620">
 </div>
 <h1 align="center">
   Hello, I'm Jhonatan!
