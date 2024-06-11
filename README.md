@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jhonatanseminario/jhonatanseminario/assets/146497717/f8a87f91-8fae-458a-8c7b-a740c5d5753f" width="620">
+  <img src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" width="620">
 </div>
 <h1 align="center">
   Hello, I'm Jhonatan!
