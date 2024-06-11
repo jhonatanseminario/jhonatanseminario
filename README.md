@@ -53,8 +53,8 @@
 <div align="center">
   <br>
   <br>
-  <img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg"/>
+  <img src="https://profile-counter.deno.dev/jhonatanseminario/count.svg">
 </div>
 <br>
 
-![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:003366,100:66ccff&section=footer&reversal=true&descAlign=50&descAlignY=50" width="1080">
