@@ -2,8 +2,10 @@
   <img src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" width="620">
 </div>
 <h1 align="center">
-  Hello, I'm Jhonatan!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" height="40">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=64&duration=1000&pause=3000&color=130F40&center=true&vCenter=true&random=false&width=640&height=64&lines=Hello%2C+I'm+Jhonatan!" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" height="96">
+  
 </h1>
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" />
