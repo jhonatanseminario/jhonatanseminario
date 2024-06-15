@@ -16,6 +16,8 @@
 <p align="center">
   I am currently in my second year of the <b>Professional Development of Systems Program</b> at the <i>"Víctor Raúl Haya de la Torre"</i> Technological Institute in Peru. This academic training effectively complements my solid self-taught knowledge and provides me with a broader and more structured perspective in the field of web development.
 </p>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25">
   Tech Stack
@@ -33,6 +35,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="64" height="64" alt="Bootstrap" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="64" height="64" alt="Sass" /></a>
 </div>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="25" height="25">
   GitHub Stats
@@ -47,6 +51,8 @@
   ![](https://streak-stats.demolab.com/?user=jhonatanseminario&hide_border=true&border_radius=8&mode=weekly&title_color=3074ff&ring=3074ff&fire=3074ff&currStreakNum=E1E1E1&sideNums=E1E1E1&currStreakLabel=E1E1E1&sideLabels=E1E1E1&dates=E1E1E1&background=0,000000,130F40)
   
 </div>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands%20Medium-Light%20Skin%20Tone.png" width="25" height="25" />
   Thanks for Visiting!
