@@ -12,7 +12,7 @@
 </h2>
 <br>
 <p align="center">
-  I am a <b>web developer</b> focused on <i>frontend development</i>. I am always in a constant state of learning, exploring, and adopting new technologies and methodologies that allow me to significantly improve the efficiency and quality of my development processes.
+  I am <b>web developer</b> focused on <i>frontend development</i>. I am always in a constant state of learning, exploring, and adopting new technologies and methodologies that allow me to significantly improve the efficiency and quality of my development processes.
 </p>
 <p align="center">
   I am currently in my second year of the <b>Professional Development of Systems Program</b> at the <i>"Víctor Raúl Haya de la Torre"</i> Technological Institute in Peru. This academic training effectively complements my solid self-taught knowledge and provides me with a broader and more structured perspective in the field of web development.
