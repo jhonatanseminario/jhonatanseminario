@@ -15,7 +15,7 @@
   I am a <b>web developer</b> focused on <i>frontend development</i>. I am always in a constant process of learning, exploring, and adopting new technologies and methodologies that allow me to significantly improve the efficiency and quality of my development processes.
 </p>
 <p align="center">
-  Currently, I am in my second year of the <b>Professional Program of Systems Development</b> at the <i>"Víctor Raúl Haya de la Torre"</i> Technological Institute in Peru. This academic training effectively complements my solid self-taught knowledge and provides me with a broader and more structured perspective in the field of web development.
+  Currently, I am in the last year of the <b>Professional Program of Systems Development</b> at the <i>"Víctor Raúl Haya de la Torre"</i> Technological Institute in Peru. This academic training effectively complements my solid self-taught knowledge and provides me with a broader and more structured perspective in the field of web development.
 </p>
 <br>
 <img src="https://github.com/jhonatanseminario/jhonatanseminario/assets/146497717/93337c45-d8c3-403e-b885-451d5ba6986c" height="32" width="100%">
