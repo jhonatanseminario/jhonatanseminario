@@ -1,8 +1,9 @@
-<h1 align="center">
+<div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=48&duration=1000&pause=3000&color=130F40&center=true&vCenter=true&random=false&width=480&height=48&lines=Hello%2C+I'm+Jhonatan!"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=48&duration=1000&pause=3000&color=130F40&center=true&vCenter=true&random=false&width=480&height=48&lines=Hello%2C+I'm+Jhonatan!"></a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" height="72">
-</h1>
+</div>
+<img src="https://github.com/jhonatanseminario/jhonatanseminario/assets/146497717/93337c45-d8c3-403e-b885-451d5ba6986c" height="32" width="100%">
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25">
   About Me
