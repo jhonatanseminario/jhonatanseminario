@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif" width="620">
-</div>
 <h1 align="center">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=48&duration=1000&pause=3000&color=130F40&center=true&vCenter=true&random=false&width=480&height=48&lines=Hello%2C+I'm+Jhonatan!"></a>
