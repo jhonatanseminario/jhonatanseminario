@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=48&letterSpacing=-1px&duration=1000&pause=5000&color=00003F&center=true&vCenter=true&width=482&height=47&lines=Hello%2C+I'm+Jhonatan!" alt="Typing SVG" /></a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="64" height="64" />
 </div>
-<img src="https://github.com/jhonatanseminario/jhonatanseminario/assets/146497717/93337c45-d8c3-403e-b885-451d5ba6986c" height="32" width="100%">
+<img src="https://github.com/jhonatanseminario/jhonatanseminario/assets/146497717/93337c45-d8c3-403e-b885-451d5ba6986c" width="100%" height="32" />
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25">
   About Me
